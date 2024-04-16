@@ -1,6 +1,6 @@
 # -*- coding: cp1251 -*-
 
-
+# -*- coding: utf-8 -*-
 from unicodedata import normalize
 import random
 
